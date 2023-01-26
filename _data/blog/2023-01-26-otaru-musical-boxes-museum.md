@@ -7,4 +7,4 @@ thumbnail: /assets/th_L1010851.jpg
 ---
 ![this store sells a lot of music boxes](/assets/th_L1010851.jpg "Otaru Music boxes Museum.")
 
-![Inside of the museum](/assets/th_L1010798.jpg)
+![there are many music boxes](/assets/th_L1010798.jpg "Inside of the museum")
