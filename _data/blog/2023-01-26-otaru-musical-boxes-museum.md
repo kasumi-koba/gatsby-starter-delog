@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /blog-post
-date: 2023-01-26T12:26:59.703Z
+date: 2023-01-26T13:07:59.703Z
 title: Otaru Musical Boxes Museum
 thumbnail: /assets/th_L1010851.jpg
 ---
