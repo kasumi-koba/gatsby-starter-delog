@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /blog-post
-date: 2023-01-26T12:03:27.644Z
+date: 2023-01-26T12:30:00.000Z
 title: Otaru Blue Canal
 thumbnail: /assets/th_L1010948.jpg
 ---
