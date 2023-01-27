@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blog-post
+path: /blog-post-20230126-otaru-musical-box
 date: 2023-01-26T13:07:59.703Z
 title: Otaru Musical Boxes Museum
 thumbnail: /assets/th_L1010851.jpg
