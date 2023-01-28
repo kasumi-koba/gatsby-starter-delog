@@ -12,13 +12,13 @@ I posted photographs of the Sapporo Snow Festival in 2016.
 T﻿here are five snow statues in the Odori Park during the Sapporo Snow Festival.   \
 In 2016, one snow statue theme was “Attack on Titan” which is a famous and popular Japanese comic.
 
-all the hige snow statues are light up and we can see the projection mapping animation.
+all the high snow statues are lit up and we can see the projection mapping animation.
 
-![](/assets/th_DT7A0049.jpg "snow mountain")
+![](/assets/th_DT7A0049.jpg "performance area")
 
-this photograph shows a skiing and snowboarding performance place.
+this photograph shows a skiing and snowboarding performance area.
 
-the performers play aerial.
+The performers jump high doing aerials.
 
 ![](/assets/th_DT7A0028.jpg "ice statue")
 
