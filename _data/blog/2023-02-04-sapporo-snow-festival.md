@@ -5,10 +5,10 @@ date: 2023-02-04T08:03:30.897Z
 title: Sapporo Snow Festival
 thumbnail: /assets/th_L1011200.jpg
 ---
-
-
 I went to Sapporo Snow Festival in Odori Park.\
 This Festival is a traditional event in Sapporo City.
+
+All photographs by the author.  
 
 # H﻿uge Snow Statues
 
@@ -28,8 +28,6 @@ These photographs show citizen’s snow statues.
 Many people - businesspersons, university students, and high school students made their original snow statues.
 
 We can watch a lot of animated characters, like Anya(SPIxFAMILY).
-
-
 
 ![](/assets/th_L1011031_2.jpg " SPYxFAMILY Anya")
 
