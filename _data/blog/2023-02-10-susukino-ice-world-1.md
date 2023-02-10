@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /blog-post-20230210-susukino-ice-world-4
+path: /blog-post-20230206-susukino-ice-world
 date: 2023-02-09T08:35:12.965Z
-title: Susukino Ice World-4
+title: Susukino Ice World
 thumbnail: /assets/th_L1011560_2.jpg
 ---
 Susukino is the northeast pleasure quarter in Japan.\
@@ -18,8 +18,6 @@ Nikka whisky’s sign is a symbol of Susukino
 I went there to see Susukino ice world.\
 Susukino ice world is a festival to display many ice statues.\
 The festival takes place with Sapporo Snow Festival every February.
-
-
 
 ![](/assets/th_L1011571_2.jpg)
 
@@ -38,8 +36,6 @@ these ice statue motifs are Dragon, bear, salmon, and alcohol.
 ![](/assets/th_L1011509.jpg)
 
 ![](/assets/th_L1011511_2.jpg)
-
-![](/assets/th_L1011537_2.jpg)
 
 ![](/assets/th_L1011540_2.jpg)
 
