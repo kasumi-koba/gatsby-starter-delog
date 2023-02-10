@@ -24,8 +24,6 @@ The festival takes place with Sapporo Snow Festival every February.
 
 ![](/assets/th_L1011571_2.jpg "ice statue line_2")
 
-
-
 ![](/assets/th_L1011490_2.jpg "ice world gate")
 
 This is a gate of the Susukino ice world.\
@@ -43,8 +41,6 @@ These ice statue motifs are Dragon, bear, salmon, and alcohol.
 
 ![](/assets/th_L1011537_2.jpg "kajiki")
 
-![](/assets/th_L1011509.jpg "kajiki")
-
 ![](/assets/th_L1011540_2.jpg "leafy sea dragon")
 
 ![](/assets/th_L1011545_2.jpg "minagiru")
@@ -52,10 +48,6 @@ These ice statue motifs are Dragon, bear, salmon, and alcohol.
 C﻿oca-Cola polar bear
 
 ![](/assets/th_L1011567_2.jpg "coca-cola-polar bear")
-
-J﻿apanese Beer company's ice statue(Asahi Beer company)
-
-![](/assets/th_L1011560_2.jpg "superdry")
 
 S﻿APPORO CLASSIC Beer(Sapporo Beer Company)
 
