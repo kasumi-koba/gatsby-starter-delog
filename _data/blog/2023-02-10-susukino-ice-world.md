@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blog-post-20230210-susukinoiceworld-2
+path: /blog-post-20230210-susukino-ice-world-2
 date: 2023-02-10T07:27:58.876Z
 title: Susukino Ice World
 ---
