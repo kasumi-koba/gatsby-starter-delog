@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blog-post-20220210
+path: /blog-post-20220210-susukino-ice-world
 date: 2023-02-10T06:05:32.400Z
 title: Susukino Ice World 2023
 thumbnail: /assets/th_L1011526_2.jpg
