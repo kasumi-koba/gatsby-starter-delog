@@ -1,9 +1,9 @@
 {
   "title": "kasumi's new blog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "siteUrl": "https://ksmk.me/",
   "description": "I built this blog with Gatsby and Netlify.\nI will use this blog for a cambly lesson to the presentation of Hokkaido and my favorite things.",
   "home": {
-    "title": "",
+    "title": "kasumi's new blog",
     "description": "I built this weblog with Gatsby and Netlify. \n\nI will post photographs and texts."
   }
 }
